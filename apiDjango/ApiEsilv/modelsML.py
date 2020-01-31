@@ -1,3 +1,4 @@
+#modelprediction
 import djclick as click
 from scipy import stats
 from sqlite3 import sq_access
