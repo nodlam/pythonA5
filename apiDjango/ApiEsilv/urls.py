@@ -1,3 +1,4 @@
+#access url
 from App.views import Train, Predict
 from django.conf.urls import url
 
